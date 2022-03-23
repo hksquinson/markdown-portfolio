@@ -1,0 +1,3 @@
+- average **sub-12** on the Rubik's Cube
+- _kinda_ good at math
+- ***Hardworking***
