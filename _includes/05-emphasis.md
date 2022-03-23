@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- average **sub-12** on the Rubik's Cube
+- _kinda_ good at math
+- ***Hardworking***
